@@ -1,9 +1,9 @@
 {
   "_notes": [
     "Compiled by Francis De Brabandere.",
-    "Fathom (Bally 1981)",
-    "https://www.ipdb.org/machine.cgi?id=829",
-    "https://opdb.org/machines/1480",
+    "Embryon (Bally 1981)",
+    "https://www.ipdb.org/machine.cgi?id=783",
+    "https://opdb.org/machines/1695",
     "Bally MPU AS-2518-35",
     "7-digit score display"
   ],
@@ -11,7 +11,8 @@
   "_license": "GNU Lesser General Public License v3.0",
   "_endian": "little",
   "_roms": [
-    "fathom"
+    "embryond",
+    "embryon"
   ],
   "_fileformat": 0.2,
   "_version": 0.1,
