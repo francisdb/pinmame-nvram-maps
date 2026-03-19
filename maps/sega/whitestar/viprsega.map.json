@@ -11,7 +11,7 @@
     "license": "GNU Lesser General Public License v3.0",
     "platform": "whitestar",
     "roms": [
-      "swtril43"
+      "viprsega"
     ]
   },
   "game_state": {
@@ -70,7 +70,7 @@
     },
     "player_count": {
       "label": "Player Count",
-      "start": "0x01E3",
+      "start": "0x01FB",
       "encoding": "int"
     },
     "ball_count": {
@@ -80,25 +80,25 @@
     },
     "current_player": {
       "label": "Player",
-      "start": "0x01E0",
+      "start": "0x01F8",
       "encoding": "int"
     },
     "current_ball": {
       "label": "Ball",
-      "start": "0x01E1",
+      "start": "0x01F9",
       "encoding": "int"
     },
     "game_over": {
       "_notes": "game is over if current player/ball is 0",
       "label": "Game Over",
-      "start": "0x01E0",
+      "start": "0x01F8",
       "encoding": "bool",
       "invert": true
     }
   },
   "high_scores": [
     {
-      "label": "#1 Jedi",
+      "label": "First",
       "short_label": "#1",
       "initials": {
         "start": "0x14CE",
@@ -112,7 +112,7 @@
       }
     },
     {
-      "label": "#2 Jedi",
+      "label": "Second",
       "short_label": "#2",
       "initials": {
         "start": "0x14D1",
@@ -126,7 +126,7 @@
       }
     },
     {
-      "label": "#3 Jedi",
+      "label": "Third",
       "short_label": "#3",
       "initials": {
         "start": "0x14D4",
@@ -140,7 +140,7 @@
       }
     },
     {
-      "label": "#4 Jedi",
+      "label": "Fourth",
       "short_label": "#4",
       "initials": {
         "start": "0x14D7",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "label": "#5 Jedi",
+      "label": "Fifth",
       "short_label": "#5",
       "initials": {
         "start": "0x14DA",
@@ -168,7 +168,7 @@
       }
     },
     {
-      "label": "#6 Jedi",
+      "label": "Sixth",
       "short_label": "#6",
       "initials": {
         "start": "0x14DD",

@@ -11,7 +11,7 @@
     "license": "GNU Lesser General Public License v3.0",
     "platform": "whitestar",
     "roms": [
-      "swtril43"
+      "godzilla"
     ]
   },
   "game_state": {
@@ -20,42 +20,42 @@
         "label": "Player 1",
         "encoding": "bcd",
         "length": 5,
-        "start": "0x14E6"
+        "start": "0x154C"
       },
       {
         "label": "Player 2",
         "encoding": "bcd",
         "length": 5,
-        "start": "0x14EB"
+        "start": "0x1551"
       },
       {
         "label": "Player 3",
         "encoding": "bcd",
         "length": 5,
-        "start": "0x14F0"
+        "start": "0x1556"
       },
       {
         "label": "Player 4",
         "encoding": "bcd",
         "length": 5,
-        "start": "0x14F5"
+        "start": "0x155B"
       },
       {
         "label": "Player 5",
         "encoding": "bcd",
         "length": 5,
-        "start": "0x14FA"
+        "start": "0x1560"
       },
       {
         "label": "Player 6",
         "encoding": "bcd",
         "length": 5,
-        "start": "0x14FF"
+        "start": "0x1565"
       }
     ],
     "credits": {
       "label": "Credits",
-      "start": "0x14E0",
+      "start": "0x1546",
       "encoding": "bcd"
     },
     "free_play": {
@@ -65,45 +65,45 @@
     },
     "max_credits": {
       "label": "Max Credits",
-      "start": "0x1E0F",
+      "start": "0x1E13",
       "encoding": "bcd"
     },
     "player_count": {
       "label": "Player Count",
-      "start": "0x01E3",
+      "start": "0x01F4",
       "encoding": "int"
     },
     "ball_count": {
       "label": "Ball Count",
-      "start": "0x1E0D",
+      "start": "0x1E11",
       "encoding": "bcd"
     },
     "current_player": {
       "label": "Player",
-      "start": "0x01E0",
+      "start": "0x01F1",
       "encoding": "int"
     },
     "current_ball": {
       "label": "Ball",
-      "start": "0x01E1",
+      "start": "0x01F2",
       "encoding": "int"
     },
     "game_over": {
       "_notes": "game is over if current player/ball is 0",
       "label": "Game Over",
-      "start": "0x01E0",
+      "start": "0x01F1",
       "encoding": "bool",
       "invert": true
     }
   },
   "high_scores": [
     {
-      "label": "#1 Jedi",
+      "label": "First",
       "short_label": "#1",
       "initials": {
-        "start": "0x14CE",
+        "start": "0x14E2",
         "encoding": "ch",
-        "length": 3
+        "length": 10
       },
       "score": {
         "encoding": "bcd",
@@ -112,12 +112,12 @@
       }
     },
     {
-      "label": "#2 Jedi",
+      "label": "Second",
       "short_label": "#2",
       "initials": {
-        "start": "0x14D1",
+        "start": "0x14EC",
         "encoding": "ch",
-        "length": 3
+        "length": 10
       },
       "score": {
         "encoding": "bcd",
@@ -126,12 +126,12 @@
       }
     },
     {
-      "label": "#3 Jedi",
+      "label": "Third",
       "short_label": "#3",
       "initials": {
-        "start": "0x14D4",
+        "start": "0x14F6",
         "encoding": "ch",
-        "length": 3
+        "length": 10
       },
       "score": {
         "encoding": "bcd",
@@ -140,12 +140,12 @@
       }
     },
     {
-      "label": "#4 Jedi",
+      "label": "Fourth",
       "short_label": "#4",
       "initials": {
-        "start": "0x14D7",
+        "start": "0x1500",
         "encoding": "ch",
-        "length": 3
+        "length": 10
       },
       "score": {
         "encoding": "bcd",
@@ -154,12 +154,12 @@
       }
     },
     {
-      "label": "#5 Jedi",
+      "label": "Fifth",
       "short_label": "#5",
       "initials": {
-        "start": "0x14DA",
+        "start": "0x150A",
         "encoding": "ch",
-        "length": 3
+        "length": 10
       },
       "score": {
         "encoding": "bcd",
@@ -168,12 +168,12 @@
       }
     },
     {
-      "label": "#6 Jedi",
+      "label": "Sixth",
       "short_label": "#6",
       "initials": {
-        "start": "0x14DD",
+        "start": "0x1514",
         "encoding": "ch",
-        "length": 3
+        "length": 10
       },
       "score": {
         "encoding": "bcd",
