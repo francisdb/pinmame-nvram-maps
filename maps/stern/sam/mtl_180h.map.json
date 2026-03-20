@@ -1,0 +1,210 @@
+{
+  "_fileformat": 0.7,
+  "_metadata": {
+    "version": 1,
+    "license": "GNU Lesser General Public License v3.0",
+    "platform": "stern-sam",
+    "roms": [
+      "mtl_180h"
+    ]
+  },
+  "high_scores": [
+    {
+      "label": "Grand Champion",
+      "initials": {
+        "start": "0x021036A4",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x021036BC",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "First Place",
+      "initials": {
+        "start": "0x021036C8",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x021036E0",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Second Place",
+      "initials": {
+        "start": "0x021036EC",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x02103704",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Third Place",
+      "initials": {
+        "start": "0x02103710",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x02103728",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Fourth Place",
+      "initials": {
+        "start": "0x02103734",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x0210374C",
+        "encoding": "int",
+        "length": 4
+      }
+    }
+  ],
+  "mode_champions": [
+    {
+      "label": "Combo Champion",
+      "initials": {
+        "start": "0x02103758",
+        "encoding": "ch",
+        "length": 3
+      },
+      "counter": {
+        "start": "0x02103770",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Lady Justice Champion",
+      "initials": {
+        "start": "0x0210377C",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x02103794",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Fuel Champion",
+      "initials": {
+        "start": "0x021037A0",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x021037B8",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Seek & Destroy Champion",
+      "initials": {
+        "start": "0x021037C4",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x021037DC",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Blackened Champion",
+      "initials": {
+        "start": "0x021037E8",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x02103800",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "For Whom The Bell Tolls Champion",
+      "initials": {
+        "start": "0x0210380C",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x02103824",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Fade To Black Champion",
+      "initials": {
+        "start": "0x02103830",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x02103848",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Battery Champion",
+      "initials": {
+        "start": "0x02103854",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x0210386C",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "Enter Sandman Champion",
+      "initials": {
+        "start": "0x02103878",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x02103890",
+        "encoding": "int",
+        "length": 4
+      }
+    },
+    {
+      "label": "The End Of The Line Champion",
+      "initials": {
+        "start": "0x0210389C",
+        "encoding": "ch",
+        "length": 3
+      },
+      "score": {
+        "start": "0x021038B4",
+        "encoding": "int",
+        "length": 4
+      }
+    }
+  ]
+}
