@@ -28,6 +28,7 @@
 * [Amazon Hunt III (rev. 1 French Free Play)][10] _amaz3afp_
 * [Apollo 13 (1.00)][11] _apollo1_
 * [Apollo 13 (2.03)][12] _apollo2_
+* [Apollo 13 (5.01, Display 4.01)][13] _apollo14_
 * [Apollo 13 (5.01, Display 5.00)][13] _apollo13_
 * [Arena][14] _arena_
 * [Arena (Free Play)][14] _arena_fp_
@@ -348,6 +349,7 @@
 * [Hurricane (D-2 LED Ghost Fix)][122] _hurr_d2_
 * [Hurricane (L-2)][122] _hurr_l2_
 * [HyperBall (L-6 MOD High score save)][64] _hypbl_l6_
+* [ID4: Independence Day (2.02 French)][123] _id4f_
 * [ID4: Independence Day (2.02)][123] _id4_
 * [Indiana Jones: The Pinball Adventure (D-7 LED Ghost Fix)][124] _ij_d7_
 * [Indiana Jones: The Pinball Adventure (L-7)][124] _ij_l7_
@@ -425,7 +427,11 @@
 * [Lord of the Rings, The (9.00)][144] _lotr9_
 * [Lost World][145] _lostwrld_
 * [Lost World (Free Play)][146] _lostwldb_
+* [Lost World: Jurassic Park, The (2.00)][147] _jplstw20_
 * [Lost World: Jurassic Park, The (2.02)][147] _jplstw22_
+* [Lost in Space (1.01 French)][148] _lostspcf_
+* [Lost in Space (1.01 German)][148] _lostspcg_
+* [Lost in Space (1.01, Display 1.01)][148] _lostspc1_
 * [Lost in Space (1.01, Display 1.02)][148] _lostspc_
 * [Lucky Seven (L-1)][149] _lucky_l1_
 * [Machine: Bride of Pinbot, The (D-7 LED Ghost Fix)][150] _bop_d7_
@@ -606,6 +612,15 @@
 * [Silverball Mania (7-digit conversion)][74] _slbmanib_
 * [Silverball Mania (Horseshoe No Spotting MOD rev. 13)][73] _slbmanid_
 * [Silverball Mania (Horseshoe Spot MOD rev. 13)][73] _slbmanic_
+* [Simpsons Pinball Party, The (3.00 French)][202] _simp300f_
+* [Simpsons Pinball Party, The (3.00 Italian)][202] _simp300i_
+* [Simpsons Pinball Party, The (3.00 Spanish)][202] _simp300l_
+* [Simpsons Pinball Party, The (3.00)][202] _simp300_
+* [Simpsons Pinball Party, The (4.00 French)][202] _simp400f_
+* [Simpsons Pinball Party, The (4.00 German)][202] _simp400g_
+* [Simpsons Pinball Party, The (4.00 Italian)][202] _simp400i_
+* [Simpsons Pinball Party, The (4.00 Spanish)][202] _simp400l_
+* [Simpsons Pinball Party, The (4.00)][202] _simp400_
 * [Simpsons Pinball Party, The (5.00 French)][202] _simpprtf_
 * [Simpsons Pinball Party, The (5.00 German)][202] _simpprtg_
 * [Simpsons Pinball Party, The (5.00 Italian)][202] _simpprti_
@@ -647,6 +662,9 @@
 * [South Park (1.03)][211] _sprk_103_
 * [Space Invaders][73] _spaceinv_
 * [Space Invaders (7-digit conversion)][74] _spaceinb_
+* [Space Jam (3.00 French)][212] _spacejmf_
+* [Space Jam (3.00 German)][212] _spacejmg_
+* [Space Jam (3.00 Italian)][212] _spacejmi_
 * [Space Jam (3.00)][212] _spacejam_
 * [Space Shuttle (L-7)][54] _sshtl_l7_
 * [Space Station (L-5)][213] _spstn_l5_
@@ -690,6 +708,7 @@
 * [Star Wars (1.06 20th Anniversary)][226] _stwr_106_
 * [Star Wars (1.07 20th Anniversary)][226] _stwr_107_
 * [Star Wars Trilogy Special Edition, The (3.00)][227] _swtril30_
+* [Star Wars Trilogy Special Edition, The (4.01)][228] _swtril41_
 * [Star Wars Trilogy Special Edition, The (4.03)][228] _swtril43_
 * [Stars][58] _stars_
 * [Stars (Free Play)][59] _starsfp_
@@ -699,7 +718,12 @@
 * [Stingray][58] _stingray_
 * [Stingray (Free Play)][59] _stingrfp_
 * [Strike][231] _strike_
+* [Striker Xtreme (1.01 English)][163] _strxt_uk_
+* [Striker Xtreme (1.02 French)][163] _strxt_fr_
+* [Striker Xtreme (1.02 Italian)][163] _strxt_it_
+* [Striker Xtreme (1.02 Spanish)][163] _strxt_sp_
 * [Striker Xtreme (1.02)][163] _strikext_
+* [Striker Xtreme (1.03 German)][163] _strxt_gr_
 * [Strikes and Spares][30] _stk_sprs_
 * [Strikes and Spares (Free Play)][31] _stk_sprb_
 * [Strikes and Spares (Free Play+)][32] _stk_sprc_
@@ -820,6 +844,8 @@
 * [World Cup Soccer (LX-3C Competition MOD)][260] _wcs_l3c_
 * [X's & O's][16] _xsandos_
 * [X's & O's (Free Play)][17] _xsandosa_
+* [X-Files, The (2.04)][261] _xfiles2_
+* [X-Files, The (3.03 French)][261] _xfilesf_
 * [X-Files, The (3.03)][261] _xfiles_
 * [Xenon][262] _xenon_
 * [Xenon (Free Play)][263] _xenona_
