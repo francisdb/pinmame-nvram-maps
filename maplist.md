@@ -501,6 +501,10 @@
 * [Nine Ball][165] _nineball_
 * [Nitro Ground Shaker][73] _ngndshkr_
 * [Nitro Ground Shaker (7-digit conversion)][74] _ngndshkb_
+* [No Fear: Dangerous Sports (2.0 / S1.1)][166] _nf_20_
+* [No Fear: Dangerous Sports (2.2 / S1.1)][166] _nf_22_
+* [No Fear: Dangerous Sports (2.3 / S1.1)][166] _nf_23_
+* [No Fear: Dangerous Sports (2.3F French / S1.1)][166] _nf_23f_
 * [No Fear: Dangerous Sports (2.3X Export / S1.1)][166] _nf_23x_
 * [No Good Gofers (1.3)][167] _ngg_13_
 * [Nugent][58] _nugent_
@@ -1017,7 +1021,7 @@
 [163]: maps/stern/whitestar/strikext.map.json
 [164]: maps/bally/as-2518-35/newwave.map.json
 [165]: maps/stern/m200/nineball.map.json
-[166]: maps/williams/wpc/nf_23x.map.json
+[166]: maps/williams/wpc/nf_23.map.json
 [167]: maps/williams/wpc/ngg_13.map.json
 [168]: maps/gottlieb/system3/opthund.map.json
 [169]: maps/stern/m200/orbitor1.map.json
