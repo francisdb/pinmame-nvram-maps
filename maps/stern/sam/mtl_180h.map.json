@@ -51,12 +51,12 @@
     {
       "label": "Third Place",
       "initials": {
-        "start": "0x02103710",
+        "start": "0x02103790",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x02103728",
+        "start": "0x021037A8",
         "encoding": "int",
         "length": 4
       }
@@ -64,12 +64,12 @@
     {
       "label": "Fourth Place",
       "initials": {
-        "start": "0x02103734",
+        "start": "0x021037B4",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x0210374C",
+        "start": "0x021037CC",
         "encoding": "int",
         "length": 4
       }
@@ -92,12 +92,12 @@
     {
       "label": "Lady Justice Champion",
       "initials": {
-        "start": "0x0210377C",
+        "start": "0x021038D4",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x02103794",
+        "start": "0x021038EC",
         "encoding": "int",
         "length": 4
       }
@@ -105,12 +105,12 @@
     {
       "label": "Fuel Champion",
       "initials": {
-        "start": "0x021037A0",
+        "start": "0x021038B0",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x021037B8",
+        "start": "0x021038C8",
         "encoding": "int",
         "length": 4
       }
@@ -118,12 +118,12 @@
     {
       "label": "Seek & Destroy Champion",
       "initials": {
-        "start": "0x021037C4",
+        "start": "0x021038F8",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x021037DC",
+        "start": "0x02103910",
         "encoding": "int",
         "length": 4
       }
@@ -131,12 +131,12 @@
     {
       "label": "Blackened Champion",
       "initials": {
-        "start": "0x021037E8",
+        "start": "0x02103820",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x02103800",
+        "start": "0x02103838",
         "encoding": "int",
         "length": 4
       }
@@ -157,12 +157,12 @@
     {
       "label": "Fade To Black Champion",
       "initials": {
-        "start": "0x02103830",
+        "start": "0x021037FC",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x02103848",
+        "start": "0x02103814",
         "encoding": "int",
         "length": 4
       }
@@ -170,12 +170,12 @@
     {
       "label": "Battery Champion",
       "initials": {
-        "start": "0x02103854",
+        "start": "0x02103868",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x0210386C",
+        "start": "0x02103880",
         "encoding": "int",
         "length": 4
       }
@@ -183,12 +183,12 @@
     {
       "label": "Enter Sandman Champion",
       "initials": {
-        "start": "0x02103878",
+        "start": "0x02103844",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x02103890",
+        "start": "0x0210385C",
         "encoding": "int",
         "length": 4
       }
@@ -196,12 +196,12 @@
     {
       "label": "The End Of The Line Champion",
       "initials": {
-        "start": "0x0210389C",
+        "start": "0x0210391C",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x021038B4",
+        "start": "0x02103934",
         "encoding": "int",
         "length": 4
       }
