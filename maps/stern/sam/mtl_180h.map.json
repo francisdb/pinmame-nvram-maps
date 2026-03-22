@@ -12,12 +12,12 @@
     {
       "label": "Grand Champion",
       "initials": {
-        "start": "0x021036A4",
+        "start": "0x02103724",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x021036BC",
+        "start": "0x0210373C",
         "encoding": "int",
         "length": 4
       }
@@ -25,12 +25,12 @@
     {
       "label": "First Place",
       "initials": {
-        "start": "0x021036C8",
+        "start": "0x02103748",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x021036E0",
+        "start": "0x02103760",
         "encoding": "int",
         "length": 4
       }
@@ -38,12 +38,12 @@
     {
       "label": "Second Place",
       "initials": {
-        "start": "0x021036EC",
+        "start": "0x0210376C",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x02103704",
+        "start": "0x02103784",
         "encoding": "int",
         "length": 4
       }
@@ -79,12 +79,12 @@
     {
       "label": "Combo Champion",
       "initials": {
-        "start": "0x02103758",
+        "start": "0x021037D8",
         "encoding": "ch",
         "length": 3
       },
       "counter": {
-        "start": "0x02103770",
+        "start": "0x021037F0",
         "encoding": "int",
         "length": 4
       }
@@ -144,12 +144,12 @@
     {
       "label": "For Whom The Bell Tolls Champion",
       "initials": {
-        "start": "0x0210380C",
+        "start": "0x0210388C",
         "encoding": "ch",
         "length": 3
       },
       "score": {
-        "start": "0x02103824",
+        "start": "0x021038A4",
         "encoding": "int",
         "length": 4
       }
