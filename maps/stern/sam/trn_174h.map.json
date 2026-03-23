@@ -1,7 +1,7 @@
 {
   "_fileformat": 0.7,
   "_metadata": {
-    "version": 1,
+    "version": 2,
     "license": "GNU Lesser General Public License v3.0",
     "platform": "stern-sam",
     "roms": [
@@ -14,7 +14,8 @@
       "initials": {
         "start": "0x02102BD8",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102BF0",
@@ -27,7 +28,8 @@
       "initials": {
         "start": "0x02102BF8",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102C10",
@@ -40,7 +42,8 @@
       "initials": {
         "start": "0x02102C18",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102C30",
@@ -53,7 +56,8 @@
       "initials": {
         "start": "0x02102C38",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102C50",
@@ -66,7 +70,8 @@
       "initials": {
         "start": "0x02102C58",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102C70",

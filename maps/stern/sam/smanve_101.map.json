@@ -1,7 +1,7 @@
 {
   "_fileformat": 0.7,
   "_metadata": {
-    "version": 1,
+    "version": 2,
     "license": "GNU Lesser General Public License v3.0",
     "platform": "stern-sam",
     "roms": [
@@ -15,7 +15,8 @@
       "initials": {
         "start": "0x02102b80",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102b98",
@@ -28,7 +29,8 @@
       "initials": {
         "start": "0x02102ba0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102bb8",
@@ -41,7 +43,8 @@
       "initials": {
         "start": "0x02102bc0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102bd8",
@@ -54,7 +57,8 @@
       "initials": {
         "start": "0x02102be0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102bf8",
@@ -67,7 +71,8 @@
       "initials": {
         "start": "0x02102c00",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102c18",
@@ -82,7 +87,8 @@
       "initials": {
         "start": "0x02102c20",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "counter": {
         "start": "0x02102c38",
@@ -95,7 +101,8 @@
       "initials": {
         "start": "0x02102c40",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "counter": {
         "start": "0x02102c5a",
@@ -108,7 +115,8 @@
       "initials": {
         "start": "0x02102c60",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "counter": {
         "start": "0x02102c78",
@@ -121,7 +129,8 @@
       "initials": {
         "start": "0x02102c80",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102c98",
@@ -134,7 +143,8 @@
       "initials": {
         "start": "0x02102ca0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102cb8",
@@ -147,7 +157,8 @@
       "initials": {
         "start": "0x02102cc0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102cd8",
@@ -160,7 +171,8 @@
       "initials": {
         "start": "0x02102ce0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102cf8",
