@@ -4,15 +4,14 @@
   ],
   "_fileformat": 0.8,
   "_metadata": {
-    "version": 5,
+    "version": 4,
     "copyright": [
       "Copyright (C) 2026 by Tom Collins <tom@scorbit.io>"
     ],
     "license": "GNU Lesser General Public License v3.0",
     "platform": "whitestar",
     "roms": [
-      "jplstw20",
-      "jplstw22"
+      "viprsega"
     ]
   },
   "game_state": {
@@ -71,7 +70,7 @@
     },
     "player_count": {
       "label": "Player Count",
-      "start": "0x01E2",
+      "start": "0x01FB",
       "encoding": "int"
     },
     "ball_count": {
@@ -81,18 +80,18 @@
     },
     "current_player": {
       "label": "Player",
-      "start": "0x01DF",
+      "start": "0x01F8",
       "encoding": "int"
     },
     "current_ball": {
       "label": "Ball",
-      "start": "0x01E0",
+      "start": "0x01F9",
       "encoding": "int"
     },
     "game_over": {
       "_notes": "game is over if current player/ball is 0",
       "label": "Game Over",
-      "start": "0x01DF",
+      "start": "0x01F8",
       "encoding": "bool",
       "invert": true
     }
