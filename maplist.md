@@ -279,7 +279,7 @@
 * [Gold Wings (Free Play)][110] _goldwgfp_
 * [Gold Wings (French Free Play)][110] _gldwgffp_
 * [Gold Wings (German Free Play)][110] _gldwggfp_
-* [Goldeneye][111] _gldneye_
+* [GoldenEye][111] _gldneye_
 * [Gorgar (C-1 Lane Change MOD)][37] _grgar_c1_
 * [Gorgar (L-1 Free Play Fix)][37] _grgar_l1ff_
 * [Gorgar (L-1)][37] _grgar_l1_
@@ -478,8 +478,8 @@
 * [Monte Carlo (Free Play)][110] _mntecrfp_
 * [Monte Carlo (French Free Play)][110] _mntcrffp_
 * [Monte Carlo (French Millions option, Free Play)][110] _mntcrfmfp_
-* [Monte Carlo (German Free Play)][110] _mntcrgfp_
-* [Monte Carlo (German Millions option, Free Play)][110] _mntcrgmfp_
+* [Monte Carlo (German rev. 1 Free Play)][110] _mntcrgfp_
+* [Monte Carlo (German rev. 1 Millions option, Free Play)][110] _mntcrgmfp_
 * [Monte Carlo (rev. 1 Free Play)][110] _mntcrafp_
 * [Monte Carlo (rev. 2 Free Play)][110] _mntcr2fp_
 * [Monte Carlo (rev. 2 Millions option, Free Play)][110] _mntcrmfp_
@@ -592,8 +592,8 @@
 * [Rock Encore (Free Play)][38] _rock_efp_
 * [Rock Encore (German Free Play)][38] _rockegfp_
 * [Rollergames (LA-2)][194] _rollr_l2_
-* [Rolling Stones][73] _rollston_
-* [Rolling Stones (7-digit conversion)][74] _rollstob_
+* [Rolling Stones (V17)][73] _rollston_
+* [Rolling Stones (V17, 7-digit conversion)][74] _rollstob_
 * [Safe Cracker (0.91 Prototype / S1.0)][195] _sc_091_
 * [Safe Cracker (1.8 / S1.1)][196] _sc_18s11_
 * [Safe Cracker (1.8 / S2.4 German)][196] _sc_18s2_
