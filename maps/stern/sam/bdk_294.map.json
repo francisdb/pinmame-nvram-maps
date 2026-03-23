@@ -14,7 +14,8 @@
       "initials": {
         "start": "0x02102B00",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102B18",
@@ -27,7 +28,8 @@
       "initials": {
         "start": "0x02102B20",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102B38",
@@ -40,7 +42,8 @@
       "initials": {
         "start": "0x02102B40",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102B58",
@@ -53,7 +56,8 @@
       "initials": {
         "start": "0x02102B60",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102B78",
@@ -66,7 +70,8 @@
       "initials": {
         "start": "0x02102B80",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102B98",
@@ -81,7 +86,8 @@
       "initials": {
         "start": "0x02102BA0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102BB8",
@@ -94,7 +100,8 @@
       "initials": {
         "start": "0x02102BC0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102BD8",
@@ -107,7 +114,8 @@
       "initials": {
         "start": "0x02102BE0",
         "encoding": "ch",
-        "length": 3
+        "null": "terminate",
+        "length": 11
       },
       "score": {
         "start": "0x02102BF8",
