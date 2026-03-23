@@ -692,8 +692,11 @@
 * [Star Trek (7-digit conversion rev. 20)][137] _startreb_
 * [Star Trek (Free Play rev. 3)][170] _startrec_
 * [Star Trek (Stern) (V1.62)][218] _st_162_
+* [Star Trek (Stern) (V1.62) (Colored MOD)][218] _st_162c_
 * [Star Trek (Stern) Limited Edition (V1.61)][219] _st_161h_
+* [Star Trek (Stern) Limited Edition (V1.61) (Colored MOD)][219] _st_161hc_
 * [Star Trek (Stern) Limited Edition (V1.62)][220] _st_162h_
+* [Star Trek (Stern) Limited Edition (V1.62) (Colored MOD)][220] _st_162hc_
 * [Star Trek 25th Anniversary (1.17)][221] _trek_117_
 * [Star Trek 25th Anniversary (1.20)][222] _trek_120_
 * [Star Trek 25th Anniversary (2.00)][223] _trek_200_
