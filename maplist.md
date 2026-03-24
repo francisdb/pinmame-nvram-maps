@@ -136,6 +136,7 @@
 * [Comet (L-4)][57] _comet_l4_
 * [Comet (L-5)][57] _comet_l5_
 * [Congo (2.0, DCS95 S1.1)][58] _congo_20_
+* [Congo (2.0, WPC-S S1.0-kit)][58] _congo_20s10k_
 * [Congo (2.1, DCS95 S1.1)][58] _congo_21_
 * [Contact (L-1)][59] _cntct_l1_
 * [Corvette (2.1)][60] _corv_21_
@@ -602,6 +603,7 @@
 * [Safe Cracker (0.91 Prototype / S1.0)][199] _sc_091_
 * [Safe Cracker (1.8 / S1.1)][200] _sc_18s11_
 * [Safe Cracker (1.8 / S2.4 German)][200] _sc_18s2_
+* [Safe Cracker (1.8 Pinball FX / S1.0)][200] _sc_18pfx_
 * [Scared Stiff (1.5)][201] _ss_15_
 * [Scorpion (L-1 Free Play Fix)][40] _scrpn_l1ff_
 * [Scorpion (L-1)][40] _scrpn_l1_
