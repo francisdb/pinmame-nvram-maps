@@ -17,7 +17,8 @@
     "license": "GNU Lesser General Public License v3.0",
     "platform": "williams-system11-48K",
     "roms": [
-      "f14_l1"
+      "f14_l1",
+      "f14_p5"
     ]
   },
   "game_state": {

@@ -19,7 +19,8 @@
     "roms": [
       "esha_la1",
       "esha_la3",
-      "esha_l4c"
+      "esha_l4c",
+      "esha_pr4"
     ]
   },
   "game_state": {

@@ -5,6 +5,7 @@
     "license": "GNU Lesser General Public License v3.0",
     "platform": "stern-sam",
     "roms": [
+      "smanve_100",
       "smanve_101",
       "smanve_101c"
     ]
