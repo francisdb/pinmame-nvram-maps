@@ -390,6 +390,8 @@
 * [Jurassic Park (5.01)][137] _jupk_501_
 * [Jurassic Park (5.13)][138] _jupk_513_
 * [Jurassic Park (6.00 unofficial MOD)][138] _jupk_600_
+* [Kingpin (Beta 1.05)][275] _kpb105_
+* [Kingpin (1.06)][275] _kpv106_
 * [Kings of Steel][19] _kosteel_
 * [Kings of Steel (Free Play)][20] _kosteela_
 * [Kiss][139] _kiss_
@@ -1157,3 +1159,4 @@
 [272]: maps/sega/whitestar/xfiles.map.json
 [273]: maps/bally/as-2518-35/xenon.map.json
 [274]: maps/bally/as-2518-35/xenon-freeplay.map.json
+[275]: maps/capcom/kpb105.map.json
