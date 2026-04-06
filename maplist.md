@@ -502,6 +502,7 @@
 * [Mr. & Mrs. Pac-Man Pinball][19] _m_mpac_
 * [Mr. & Mrs. Pac-Man Pinball (Free Play)][20] _m_mpaca_
 * [Mr. & Mrs. Pac-Man Pinball (alternate version)][19] _m_mpacb_
+* [Mystery Castle (R02)][276] _mystcast_
 * [Mystic][77] _mystic_
 * [Mystic (7-digit conversion)][78] _mysticb_
 * [NBA Fastbreak (3.1 / S3.0 English/German)][167] _nbaf_31_
@@ -1160,3 +1161,4 @@
 [273]: maps/bally/as-2518-35/xenon.map.json
 [274]: maps/bally/as-2518-35/xenon-freeplay.map.json
 [275]: maps/capcom/kpb105.map.json
+[276]: maps/alving/mystcast.map.json
