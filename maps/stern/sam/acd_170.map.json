@@ -10,10 +10,14 @@
   "_fileformat": 0.8,
   "_metadata": {
     "version": 1,
-    "copyright": ["Copyright (C) 2026 by Tom Collins <tom@scorbit.io>"],
+    "copyright": [
+      "Copyright (C) 2026 by Tom Collins <tom@scorbit.io>"
+    ],
     "license": "GNU Lesser General Public License v3.0",
     "platform": "stern-sam",
-    "roms": ["acd_170"]
+    "roms": [
+      "acd_170"
+    ]
   },
   "high_scores": [
     {
