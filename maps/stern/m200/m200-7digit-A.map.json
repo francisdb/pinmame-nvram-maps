@@ -8,7 +8,7 @@
   ],
   "_fileformat": 0.8,
   "_metadata": {
-    "version": 3,
+    "version": 4,
     "copyright": [
       "Copyright (C) 2022 by HorsePin",
       "Copyright (C) 2025 by Tom Collins <tom@scorbit.io>"
@@ -22,7 +22,6 @@
       "cheetahb",
       "cheetahb2",
       "flight2k",
-      "flight2m",
       "quicksil",
       "seawitch",
       "stargzr"

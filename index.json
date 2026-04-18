@@ -229,7 +229,7 @@
   "flashgvf": "maps/bally/as-2518-35/system-rom-52.map.json",
   "flashgvffp": "maps/bally/as-2518-35/system-rom-52-freeplay.map.json",
   "flight2k": "maps/stern/m200/m200-7digit-A.map.json",
-  "flight2m": "maps/stern/m200/m200-7digit-A.map.json",
+  "flight2m": "maps/stern/m200/flight2m.map.json",
   "fpwr2_l2": "maps/williams/system7/generic-10KB.map.json",
   "frankst": "maps/dataeast/version3b/frankst.map.json",
   "frankstg": "maps/dataeast/version3b/frankst.map.json",
