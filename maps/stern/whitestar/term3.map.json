@@ -1,5 +1,7 @@
 {
+  "_fileformat": 0.8,
   "_metadata": {
+    "license": "GNU Lesser General Public License v3.0",
     "platform": "whitestar",
     "roms": [
       "term3"
